@@ -1,4 +1,9 @@
 New file created hello world
 newFile edited from browser
 new Edit file 1
+<<<<<<< HEAD
 made changes at 14:40
+=======
+
+shreyash
+>>>>>>> 7a9a2013c686cf50386bb1df911d7ef6f5bd8f2d
